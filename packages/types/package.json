@@ -25,7 +25,7 @@
   "dependencies": {
     "@neurosongs/prisma-client": "workspace:*",
     "@neurosongs/utility": "workspace:*",
-    "zod": "^4.3.5"
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "tsdown": "^0.18.4"
