@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@neurosongs/utility": "workspace:*",
-    "@types/node": "^25.0.10",
+    "@types/node": "^25.1.0",
     "zod": "^4.3.6"
   },
   "devDependencies": {
