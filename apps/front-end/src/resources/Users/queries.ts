@@ -1,4 +1,4 @@
-import type { PublicUser, PublicAlbum, PublicSong } from "@neurosongs/types";
+import type { PublicAlbum, PublicSong, PublicUser } from "@neurosongs/types";
 
 import { parsePublicAlbum, parsePublicSongs, parsePublicUser } from "@neurosongs/types";
 import { useQuery } from "@tanstack/react-query";
